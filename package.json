@@ -1,0 +1,1 @@
+{\n  "name": "telegram-mweb-meetup",\n  "version": "1.0.0",\n  "description": "A Telegram bot for web meetings",\n  "main": "backend/server.js",\n  "scripts": {\n    "start": "node backend/server.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1"\n  }\n}
